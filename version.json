@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.12.0-gate1",
-  "sha256": "1db0098313109076fd8184cce2a3eb343f4c5dfc022d0408738f3ec502d673f6",
-  "notes": "זמני תפילה ותזכורת, חיזוי יעד לפי ההרגלים, מסך כהה כשהאורות דולקים",
+  "versionCode": 19,
+  "versionName": "0.12.2-gate1",
+  "sha256": "727306ddf341ecae04aed132c25b1c1259ab2c4db1a0b248a594b38d3952cf36",
+  "notes": "زمني تفילה לפי مواقيت فلسطين (الأوقاف) + כוונון ±דקה לכל תפילה",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
