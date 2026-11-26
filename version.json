@@ -1,0 +1,7 @@
+{
+  "versionCode": 10,
+  "versionName": "0.8.0-gate1",
+  "sha256": "29c11af0df1bc3c7337f00631862431e61bf7c8a0a6c984cf55337a14a924a69",
+  "notes": "עדכון אוטומטי, נתוני רכב ולמידת הרכב, כפתור קול צף, תזכורות תחזוקה, ערכות צבעים חדשות",
+  "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
+}
