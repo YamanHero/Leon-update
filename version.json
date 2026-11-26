@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.10.1-gate1",
-  "sha256": "a42bd29d623443e7c8a1798bfdfb78937d323184fd507cb0a86df313c1daa5ad",
-  "notes": "زر الصوت بالمقود: كبستين بتفتح CarPlay، أو اضبطه يفتح CarPlay مباشرة",
+  "versionCode": 16,
+  "versionName": "0.11.0-gate1",
+  "sha256": "7b7cba4d3653d7b1ccd67d579b1156e26f04693ce05d7fd0be0ff2f6c90e77a8",
+  "notes": "زر الصوت بالمقود: Leon بيتعلّمه وبيفتح الصوت من أي تطبيق؛ كبستين = CarPlay",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
