@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.10.0-gate1",
-  "sha256": "3b67c2c1937fd2bb66c3950c6f0f9333f07238fcbd200de5b99efdf077b0f76b",
-  "notes": "ממשק נקי יותר וניגודיות גבוהה: פחות כפתורים, טקסט גדול ובהיר יותר",
+  "versionCode": 15,
+  "versionName": "0.10.1-gate1",
+  "sha256": "a42bd29d623443e7c8a1798bfdfb78937d323184fd507cb0a86df313c1daa5ad",
+  "notes": "زر الصوت بالمقود: كبستين بتفتح CarPlay، أو اضبطه يفتح CarPlay مباشرة",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
