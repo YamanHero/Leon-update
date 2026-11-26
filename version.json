@@ -2,6 +2,6 @@
   "versionCode": 19,
   "versionName": "0.12.2-gate1",
   "sha256": "727306ddf341ecae04aed132c25b1c1259ab2c4db1a0b248a594b38d3952cf36",
-  "notes": "زمني تفילה לפי مواقيت فلسطين (الأوقاف) + כוונון ±דקה לכל תפילה",
+  "notes": "זמני תפילה לפי مواقيت فلسطين (הקדשים) + כוונון ±דקה לכל תפילה",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
