@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "0.9.1-gate1",
-  "sha256": "b3392e54c1f85d74b7f5cc46b8057795dbb5fdce89e81ba030d9587935f86d09",
-  "notes": "כתובות גיבוי לעדכונים והצגת סיבת השגיאה; התראת מצבר, פס שיחה נכנסת, כפתור הקול בהגה",
+  "versionCode": 13,
+  "versionName": "0.9.2-gate1",
+  "sha256": "fa4937074d4f965e8f59551ba09d3c04cbb4c13c6c122c42f2f213499e5d5cda",
+  "notes": "מסך נתוני הרכב עם למידה מחדש של פריט אחד, ערכת צבעים SEAT Red, כתובות גיבוי לעדכונים",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
