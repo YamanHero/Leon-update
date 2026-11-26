@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.9.2-gate1",
-  "sha256": "fa4937074d4f965e8f59551ba09d3c04cbb4c13c6c122c42f2f213499e5d5cda",
-  "notes": "מסך נתוני הרכב עם למידה מחדש של פריט אחד, ערכת צבעים SEAT Red, כתובות גיבוי לעדכונים",
+  "versionCode": 14,
+  "versionName": "0.10.0-gate1",
+  "sha256": "3b67c2c1937fd2bb66c3950c6f0f9333f07238fcbd200de5b99efdf077b0f76b",
+  "notes": "ממשק נקי יותר וניגודיות גבוהה: פחות כפתורים, טקסט גדול ובהיר יותר",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
