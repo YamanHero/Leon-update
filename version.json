@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.14.2-gate1",
-  "sha256": "b8a99bf2557c78a96eac56ef010cc8ee22af176ccc83b10f523c37a6def20821",
-  "notes": "رديو وإعدادات أثناء القيادة / רדיו והגדרות בנסיעה",
+  "versionCode": 24,
+  "versionName": "0.14.3-gate1",
+  "sha256": "7187f4e2b2d7493ac8c042094c1412d1ece7ff1a852065b9658cc485dff3b914",
+  "notes": "يوتيوب للبودكاست أثناء القيادة / YouTube לפודקאסטים בנסיעה",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
