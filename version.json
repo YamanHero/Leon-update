@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.13.0-gate1",
-  "sha256": "cad9d114a6dac4f6269cd6d07b50bbd1d5c598e700bab2fbd037b988ba9a43bc",
-  "notes": "עוזר AI: שאלה חופשית בכל שפה, דרך השרת שלך",
+  "versionCode": 21,
+  "versionName": "0.14.0-gate1",
+  "sha256": "dd181dbf22a468a9e48040799a08ee2c682284229e9ee1d815845414d4a844ac",
+  "notes": "يوتيوب أثناء القيادة كصوت فقط، والأسئلة تذهب للذكاء الاصطناعي / YouTube בנסיעה כשמע, שאלות ל-AI",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
