@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.14.1-gate1",
-  "sha256": "d9d45e47cfe91781ed1c790534b5ca26d316262f23c43d63bcf8c7157c948191",
-  "notes": "زر الصوت أكبر وأوضح / כפתור קול גדול וברור",
+  "versionCode": 23,
+  "versionName": "0.14.2-gate1",
+  "sha256": "b8a99bf2557c78a96eac56ef010cc8ee22af176ccc83b10f523c37a6def20821",
+  "notes": "رديو وإعدادات أثناء القيادة / רדיו והגדרות בנסיעה",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
