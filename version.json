@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.14.0-gate1",
-  "sha256": "dd181dbf22a468a9e48040799a08ee2c682284229e9ee1d815845414d4a844ac",
-  "notes": "يوتيوب أثناء القيادة كصوت فقط، والأسئلة تذهب للذكاء الاصطناعي / YouTube בנסיעה כשמע, שאלות ל-AI",
+  "versionCode": 22,
+  "versionName": "0.14.1-gate1",
+  "sha256": "d9d45e47cfe91781ed1c790534b5ca26d316262f23c43d63bcf8c7157c948191",
+  "notes": "زر الصوت أكبر وأوضح / כפתור קול גדול וברור",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
