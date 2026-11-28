@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "0.15.3-gate1",
-  "sha256": "83a0bf24c3712cacdf630131d93ae27bdc2b22dcc49d836c076c025c59c4184b",
-  "notes": "إلغاء تنبيهات الأبواب / ביטול התראות דלתות",
+  "versionCode": 30,
+  "versionName": "0.15.4-gate1",
+  "sha256": "509dd810ee242e364899286293ef648fa95a7f76e0f09d80b0d11709f441f539",
+  "notes": "صوت أوضح / קול ברור יותר",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
