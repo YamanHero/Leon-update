@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "0.15.4-gate1",
-  "sha256": "509dd810ee242e364899286293ef648fa95a7f76e0f09d80b0d11709f441f539",
-  "notes": "صوت أوضح / קול ברור יותר",
+  "versionCode": 31,
+  "versionName": "0.16.0-gate1",
+  "sha256": "f26548613171b8ec898adcd8aa17dd219e1e5efddd8f6c3770d26815f14cd6b1",
+  "notes": "صوت طبيعي من السيرفر / קול טבעי מהשרת",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
