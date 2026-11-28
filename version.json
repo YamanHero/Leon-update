@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.15.0-gate1",
-  "sha256": "a483bcdc1d1521a558df5c2f7f5a0290b00b870cabde9b2c17728e0b1152fc45",
-  "notes": "دلق، سجل القيادة، رد على الرسائل، تكملة الموسيقى عند التشغيل / דלק, יומן נסיעות, תשובה להודעות, המשך מוזיקה בהנעה",
+  "versionCode": 27,
+  "versionName": "0.15.1-gate1",
+  "sha256": "c71732d1ccde261c6facbcf30ab1f17e5a84c61431911a1beb542faee7b45bf8",
+  "notes": "زر الصوت بالمقود: تعليم الزر / כפתור הקול בהגה: לימוד הכפתור",
   "apk": "https://raw.githubusercontent.com/YamanHero/Leon-update/main/LeonSmartDrive.apk"
 }
